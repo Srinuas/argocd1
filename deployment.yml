@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: cont-1
-        image: srinuas/instagram:v4
+        image: srinuas/swiggy:instamart
         ports:
         - containerPort: 80
